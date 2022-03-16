@@ -1,0 +1,72 @@
+@charset "UTF-8";
+@media (min-width: 1px) and (max-width: 767.98px)  {
+
+body, html {
+    font: 16px "Lato", sans-serif;
+    height: 100%;
+    margin: 0;
+    background-color: #f2f2f2;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.8em;
+}
+
+p {
+    margin: 0 15px 20px 15px;
+    text-align: justify;
+}
+
+ /*Formatação imagem de fundo*/
+.caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6 {
+    height: 100%;
+    opacity: 0.85;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.caixa1 {
+    background-image: url("imagens/imagem-aerea.jpg");
+}
+
+.caixa2 {
+    background-image: url("imagens/arquitetura.jpg");
+}
+
+.caixa3 {
+    background-image: url("imagens/casarao.jpg");
+}
+
+.caixa4 {
+    background-image: url("imagens/culinaria.jpg");
+}
+
+.caixa5 {
+    background-image: url("imagens/bumba-meu-boi.jpg");
+}
+
+.caixa6 {
+    background-image: url("imagens/jamaica-brasileira.jpg");
+}
+
+/*Formatação texto*/
+
+.descricao-imagem {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    color: white;
+    width: 100%; /*config para deixar o texto centralizado*/
+    text-align: center; /*config para deixar o texto centralizado*/
+    
+}
+
+.descricao-imagem span.titulo {
+    background-color: black;
+    padding: 18px 36px;
+    font-size: 25px;
+    text-transform: uppercase;
+}}
