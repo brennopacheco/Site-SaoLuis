@@ -1,6 +1,9 @@
 # Projeto São Luís - Parallax
 Projeto criado por mim usando o efeito parallax do CSS. Após as aulas de Parallax, resolvi criar um site falando um pouco mais sobre a cidade onde eu nasci e moro atualmente. Abordando, brevemente, um pouco sobre sua história, cultura, culinária e arquitetura entre outras coisas.
 
+
+link para o site: https://brennopacheco.github.io/Site-SaoLuis/
+
 ### Referências 
 Os textos apresentados no site, foram retirados dos seguintes links:
  - https://pt.wikipedia.org/wiki/S%C3%A3o_Lu%C3%ADs_(Maranh%C3%A3o)
